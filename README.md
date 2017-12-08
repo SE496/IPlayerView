@@ -1,5 +1,5 @@
 # IPlayerView
-PlayerView class for piemonte/Player with improvements
+PlayerView class for piemonte/Player with enhancement.
 
 ## Improvements
 * Activity Indicator while buffering.
